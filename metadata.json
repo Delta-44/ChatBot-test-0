@@ -1,0 +1,5 @@
+{
+  "name": "Dev0",
+  "description": "A chatbot focused on software development, designed to assist and instruct users with their coding questions using the Gemini API.",
+  "requestFramePermissions": []
+}
